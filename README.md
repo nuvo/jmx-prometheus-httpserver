@@ -1,4 +1,8 @@
 # jmx-prometheus-httpserver
+
+[![Docker Pulls](https://img.shields.io/docker/pulls/nuvo/jmx-prometheus-httpserver.svg)](https://hub.docker.com/r/nuvo/jmx-prometheus-httpserver/)
+[![license](https://img.shields.io/github/license/nuvo/jmx-prometheus-httpserver.svg)](https://github.com/nuvo/jmx-prometheus-httpserver/blob/master/LICENSE)
+
 HTTP server to collect mBean jmx metrics and export them to Prometheus
 
 See the [official docs](https://github.com/prometheus/jmx_exporter) for more details and example configs.
